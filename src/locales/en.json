@@ -1,0 +1,83 @@
+{
+  "ProfileTitle": "Profile",
+  "Message_EnterName": "Enter the name",
+  "Update": "Update",
+  "Name": "Name",
+  "Menu_Bill": "Bill",
+  "Menu_History": "History",
+  "Menu_Planning": "Planning",
+  "Menu_NewRecord": "New Record",
+  "Menu_Categories": "Categories",
+  "Detail_Title": "Detail",
+  "Home_Bill": "Bill",
+  "Home_BillInCur": "Bill in currencies",
+  "Home_CurRates": "Currencies rates",
+  "Home_Currency": "Currency",
+  "Home_Rate": "Rate",
+  "Home_Date": "Date",
+  "History_Records": "Records History",
+  "History_NoneMessage": "No entries yet.",
+  "History_NoneRoutMessage": "Add the first",
+  "History_Amount": "Amount",
+  "History_Date": "Date",
+  "History_Category": "Category",
+  "History_Type": "Type",
+  "History_Open": "Open",
+  "History_Income": "Income",
+  "History_Outcome": "Outcome",
+  "History_Prev": "Prev",
+  "History_Next": "Next",
+  "History_Tooltip": "Open record",
+  "History_TooltipAdd": "Add new record",
+  "Detail_Description": "Description",
+  "Detail_Amount": "Amount",
+  "Detail_CategoryName": "Category",
+  "Detail_NoneDescription": "No entries yet",
+  "Detail_History": "History",
+  "Planning_Name": "Planning",
+  "Planning_NoneCategory": "Add new category",
+  "Planning_Left": "Left",
+  "Planning_Excess": "Excess on",
+  "Record_Title": "New Record",
+  "Record_NoneMessage": "No categories yet.",
+  "Record_HelpTextDescription": "Enter the description",
+  "Record_Create": "Create",
+  "Record_MinAmount": "Min Amount",
+  "Record_ChoseCategory": "Select the category",
+  "Category_Title": "Categories",
+  "Category_Name": "Title",
+  "Category_EnterName": "Enter the title of category",
+  "Category_Limit": "Limit",
+  "Category_Edit": "Edit",
+  "Category_Message": "The record created successfully",
+  "Category_CurrencyMessage": "insufficient funds on the account",
+  "Category_CreateMessage": "Category was created",
+  "Category_UpdateMessage": "Category updated successfully",
+  "Register_CorrectEmail": "Wrong Email",
+  "Register_Email": "Enter Email",
+  "Password": "Password",
+  "CorrectPassword": "Password must be",
+  "CorrectEnterPassword": "Enter Password",
+  "AgreeWithRules": "Agree with rules",
+  "Register": "Register",
+  "HasAccount": "has account?",
+  "HasNoAccount": "has no account?",
+  "Register_Title": "CRM by Wadim",
+  "NowPassword": "characters. Now it's",
+  "Login": "Login!",
+  "Login_Name": "Login"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

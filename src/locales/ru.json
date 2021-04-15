@@ -1,0 +1,89 @@
+{
+  "ProfileTitle": "Профиль",
+  "Message_EnterName": "Введите Имя",
+  "Update": "Обновить",
+  "Name": "Имя",
+  "Menu_Bill": "Счет",
+  "Menu_History": "История",
+  "Menu_Planning": "Планирование",
+  "Menu_NewRecord": "Новая запись",
+  "Menu_Categories": "Категории",
+  "Detail_Title": "Запись",
+  "Home_Bill": "Счет",
+  "Home_BillInCur": "Счет в валюте",
+  "Home_CurRates": "Курс валют",
+  "Home_Currency": "Валюта",
+  "Home_Rate": "Курс",
+  "Home_Date": "Дата",
+  "History_Records": "История записей",
+  "History_NoneMessage": "Записей пока нет.",
+  "History_NoneRoutMessage": "Добавьте первую",
+  "History_Amount": "Сумма",
+  "History_Date": "Дата",
+  "History_Category": "Категория",
+  "History_Type": "Тип",
+  "History_Open": "Открыть",
+  "History_Income": "Доход",
+  "History_Outcome": "Расход",
+  "History_Prev": "Назад",
+  "History_Next": "Вперед",
+  "History_Tooltip": "Посмотреть запись",
+  "History_TooltipAdd": "Добавить новую запись",
+  "Detail_Description": "Описание",
+  "Detail_Amount": "Сумма",
+  "Detail_CategoryName": "Категория",
+  "Detail_NoneDescription": "Такой записи нет",
+  "Detail_History": "История",
+  "Planning_Name": "Планирование",
+  "Planning_NoneCategory": "Добавить новую категорию",
+  "Planning_Left": "Осталось",
+  "Planning_Excess": "Превышение на",
+  "Record_Title": "Новая запись",
+  "Record_NoneMessage": "Категорий пока нет.",
+  "Record_HelpTextDescription": "Введите описание",
+  "Record_Create": "Создать",
+  "Record_MinAmount": "Минимальная значение",
+  "Record_ChoseCategory": "Выберите категорию",
+  "Category_Title": "Категории",
+  "Category_Name": "Название",
+  "Category_EnterName": "Введите название категории",
+  "Category_Limit": "Лимит",
+  "Category_Edit": "Редактировать",
+  "Category_Message": "Запись успешно cоздана",
+  "Category_CurrencyMessage": "недостаточно средств на счете",
+  "Category_CreateMessage": "Категория была создана",
+  "Category_UpdateMessage": "Категория успешно обновлена",
+  "Register_CorrectEmail": "Введите корректный Email",
+  "Register_Email": "Введите Email",
+  "Password": "Пароль",
+  "CorrectPassword": "Пароль должен быть",
+  "CorrectEnterPassword": "Введите пароль",
+  "AgreeWithRules": "С правилами согласен",
+  "Register": "Зарегистрироваться",
+  "HasAccount": "Уже есть аккаунт?",
+  "HasNoAccount": "Нет аккаунта?",
+  "Register_Title": "Домашняя бухгалтерия",
+  "NowPassword": "символов. Сейчас он",
+  "Login": "Войти!",
+  "Login_Name": "Логин"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
